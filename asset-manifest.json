@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.37a8dcfe.css",
-    "main.js": "./static/js/main.c3f55cfd.js",
-    "index.html": "./index.html",
-    "main.37a8dcfe.css.map": "./static/css/main.37a8dcfe.css.map",
-    "main.c3f55cfd.js.map": "./static/js/main.c3f55cfd.js.map"
+    "main.css": "/Coiner-CoinGekoAPI/static/css/main.37a8dcfe.css",
+    "main.js": "/Coiner-CoinGekoAPI/static/js/main.c3f55cfd.js",
+    "index.html": "/Coiner-CoinGekoAPI/index.html",
+    "main.37a8dcfe.css.map": "/Coiner-CoinGekoAPI/static/css/main.37a8dcfe.css.map",
+    "main.c3f55cfd.js.map": "/Coiner-CoinGekoAPI/static/js/main.c3f55cfd.js.map"
   },
   "entrypoints": [
     "static/css/main.37a8dcfe.css",
